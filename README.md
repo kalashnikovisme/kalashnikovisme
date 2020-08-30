@@ -1,5 +1,3 @@
-### Pavel Kalashnikov
-
 👯 Team | 👷 Role
 ------|-----
 💜  | Team lead at [Purple Magic](https://github.com/Purple-Magic)
