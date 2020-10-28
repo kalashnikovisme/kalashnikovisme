@@ -6,3 +6,5 @@
 ![it-way-podcast](https://raw.githubusercontent.com/kalashnikovisme/kalashnikovisme/master/logo.png) | Unfortunately, people hear my voice everyweek at the [IT Way Podcast](https://redcircle.com/shows/5a51ca0b-c930-480a-85f4-94a5f2190530/)
 ![red-magic-ico](https://raw.githubusercontent.com/kalashnikovisme/kalashnikovisme/master/red_madzhig_EBRIMA_BELYJ-min.png) | Useless man at [Red Magic](https://vk.com/redmagicprod)
 ![ulmic ico](https://raw.githubusercontent.com/kalashnikovisme/kalashnikovisme/master/logo_png.png) | Oldfag at [МИЦ](http://ulmic.ru)
+
+[My Rubygems account](https://rubygems.org/profiles/kalashnikovisme)
