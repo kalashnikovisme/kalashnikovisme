@@ -7,4 +7,11 @@
 ![red-magic-ico](https://raw.githubusercontent.com/kalashnikovisme/kalashnikovisme/master/red_madzhig_EBRIMA_BELYJ-min.png) | Useless man at [Red Magic](https://vk.com/redmagicprod)
 ![ulmic ico](https://raw.githubusercontent.com/kalashnikovisme/kalashnikovisme/master/logo_png.png) | Oldfag at [МИЦ](http://ulmic.ru)
 
-[My Rubygems account](https://rubygems.org/profiles/kalashnikovisme)
+APP | Link
+----|-----
+Rubygems | [kalashnikovisme](https://rubygems.org/profiles/kalashnikovisme)
+Stackoverflow | [kalashnikovisme](https://stackoverflow.com/users/2152439/pavel-kalashnikov)
+Gitlab | [kalashnikovisme](https://gitlab.com/kalashnikovisme)
+twitter (RU) | [kalashnikovisme](https://twitter.com/kalashnikovisme)
+VK (RU) | [kalashnikovisme](https://vk.com/kalashnikovisme)
+facebook | [kalashnikovisme](https://fb.com/kalashnikovisme)
