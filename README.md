@@ -9,6 +9,7 @@
 
 APP | Link
 ----|-----
+<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> | [kalashnikovisme](https://kalashnikovisme.medium.com)
 <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rubygems.svg" /> | [kalashnikovisme](https://rubygems.org/profiles/kalashnikovisme)
 <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /> | [kalashnikovisme](https://stackoverflow.com/users/2152439/pavel-kalashnikov)
 <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> | [kalashnikovisme](https://gitlab.com/kalashnikovisme)
