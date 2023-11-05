@@ -1,3 +1,8 @@
+The whole time I spent in IDEs
+
+
+[![wakatime](https://wakatime.com/badge/user/fd89bc94-f9c3-4841-a638-541b25da1f93.svg)](https://wakatime.com/@fd89bc94-f9c3-4841-a638-541b25da1f93)
+
 APP | Link
 ----|-----
 <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> | [kalashnikovisme](https://kalashnikovisme.medium.com)
