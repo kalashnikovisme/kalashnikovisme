@@ -25,20 +25,19 @@
 - 🚋 I build **[Tramway](https://github.com/Purple-Magic/tramway)** — an opinionated toolkit for spinning up production-ready Rails apps fast, plus the engines and admin panel around it
 - 🟣 I run **[Purple Magic](https://github.com/Purple-Magic)** — a small studio shipping client APIs, bots, and Rails products
 - 🤖 I write Claude Code skills (`tramway-skill`, `kamal-deploy-skill`, `dip-skill`, `skillyaga`) so agents can generate Rails code the way I'd write it myself
+- 📰 I publish the [IT History Journal](https://history.purple-magic.com) — a project documenting the history of computing and IT
 - 📍 Based in Batumi, Georgia
 - ✍️ I write about dev tooling on [Medium](https://kalashnikovisme.medium.com)
-- ⚡ Fun fact: I maintain [`karamzin`](https://github.com/kalashnikovisme/karamzin), a gem that puts the letter **Ё** back where it belongs in Russian text
 
 ## Projects I'm proud of
 
-<div align="center">
-
-<a href="https://github.com/kalashnikovisme/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kalashnikovisme&repo=dotfiles&theme=radical" alt="dotfiles" /></a>
-<a href="https://github.com/kalashnikovisme/nano-metadata"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kalashnikovisme&repo=nano-metadata&theme=radical" alt="nano-metadata" /></a>
-<a href="https://github.com/Purple-Magic/tramway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Purple-Magic&repo=tramway&theme=radical" alt="tramway" /></a>
-<a href="https://github.com/kalashnikovisme/karamzin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kalashnikovisme&repo=karamzin&theme=radical" alt="karamzin" /></a>
-
-</div>
+| Project | Description |
+|---|---|
+| 🚋 **[Tramway](https://github.com/Purple-Magic/tramway)** | Start your Rails project with Tramway — opinionated toolkit + engines + admin panel |
+| 🟣 **[Purple Magic](https://github.com/Purple-Magic)** | Studio building client APIs, bots, and Rails products |
+| 📰 **[IT History Journal](https://history.purple-magic.com)** | Documenting the history of computing and IT ([source](https://github.com/kalashnikovisme/it_history_journal)) |
+| 🖥️ **[dotfiles](https://github.com/kalashnikovisme/dotfiles)** | Install my dev environment with one command |
+| 🎞️ **[nano-metadata](https://github.com/kalashnikovisme/nano-metadata)** | Get the duration of a video file in the browser |
 
 ## Tech I work with
 
@@ -63,10 +62,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalashnikovisme&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalashnikovisme&theme=radical&hide_border=true" alt="GitHub streak" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashnikovisme&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+<img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 
 </div>
 
