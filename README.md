@@ -62,8 +62,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalashnikovisme&theme=radical&hide_border=true" alt="GitHub streak" height="165" />
-
 <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 
 </div>
